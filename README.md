@@ -14,4 +14,4 @@ Repositori ini berisi analisis data Olist. Analisis ini dilakukan untuk mendapat
 
 ## Analisis
 
-Analisis dapat dibaca melalui artikel medium saya [di sini]
+Analisis dapat dibaca melalui artikel medium saya [di sini](https://medium.com/@adhitizki/data-cleaning-dan-analisis-deskriptif-pada-data-produk-olist-da910fc24a72)
